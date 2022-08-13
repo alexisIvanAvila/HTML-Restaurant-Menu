@@ -10,6 +10,9 @@ h1,
 h2 {
     color: darkred;
 }
+.our-menu{
+    font-size: 40px;
+}
 
 h3, 
 p,
@@ -18,9 +21,9 @@ li {
 }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
-    max-width: 100%;
+    max-width: 50%;
 }
 
 main {
@@ -83,4 +86,8 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+p{
+    font-size: 30px;
+    color: red;
 }
